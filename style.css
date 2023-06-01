@@ -1,0 +1,70 @@
+/* * {
+    outline: 1px solid red;
+} */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Container {
+    /* background: aquamarine; */
+    position: fixed;
+    top: 150px;
+    left: 150px;
+    width: 550px;
+    height: 270px;
+    border-style: solid;
+    border-color: gray;
+}
+
+
+.Card-banner {
+    width: 100%;
+    height: 65px;
+    background: lightblue;
+}
+
+
+.Card-body {
+    margin: 10px;
+    padding: 10px;
+}
+
+.pic {
+    position: absolute;
+    top: 175px;
+    left: 180px;
+
+}
+
+.picloc {
+    position: absolute;
+    top: 277px;
+    left: 172px;
+
+}
+
+
+.picprof {
+    position: absolute;
+    top: 370px;
+    left: 170px;
+
+}
+
+
+.prof,
+.loc {
+    position: relative;
+    left: 25px;
+
+}
+
+.picborder {
+    position: absolute;
+    top: 370px;
+    left: 170px;
+
+
+}
